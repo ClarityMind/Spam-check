@@ -19,7 +19,7 @@ The code assumes the presence of a dataset file named spam.csv containing SMS me
 ## Usage
 1. Clone this repository:
 `
-git clone https://github.com/your-username/spam-detection.git \n
+git clone https://github.com/your-username/spam-detection.git <br>
 `
 `
 cd spam-detection
