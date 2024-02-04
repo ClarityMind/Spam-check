@@ -18,17 +18,10 @@ The code assumes the presence of a dataset file named spam.csv containing SMS me
 
 ## Usage
 1. Clone this repository:
-`
-git clone https://github.com/your-username/spam-detection.git 
-`
-<br>
-`
-cd spam-detection
-`
+> git clone https://github.com/your-username/spam-detection.git 
+> cd spam-detection
 2. Run the Python script:
-`
-python spam_detection.py
-`
+> python spam_detection.py
 3. The script will load the dataset, preprocess it, train the spam detection model, and display performance metrics such as accuracy, confusion matrix, and classification report. The trained model will be saved as model.sav.
 
 ## Results
