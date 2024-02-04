@@ -18,7 +18,7 @@ The code assumes the presence of a dataset file named spam.csv containing SMS me
 
 ## Usage
 1. Clone this repository:
-> git clone https://github.com/your-username/spam-detection.git 
+> git clone https://github.com/ClarityMind/Spam-check.git 
 > cd spam-detection
 2. Run the Python script:
 > python spam_detection.py
